@@ -1,1 +1,0 @@
-# Entorns de desenvolupament
