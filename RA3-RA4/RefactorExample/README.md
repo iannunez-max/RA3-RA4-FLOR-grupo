@@ -11,8 +11,11 @@ La refactorización consistirá en dividir las responsabilidades en métodos má
 Métodos pequeños y enfocados: Ahora, cada método tiene una única responsabilidad:
 
 establecerSubtotal(): Establece el valor del subtotal.
+
 calcularImpuestos(): Calcula los impuestos en función de un porcentaje.
+
 calcularTotal(): Calcula el total de la factura.
+
 mostrarFactura(): Muestra la factura final.
 
 Código más claro y comprensible: El código ahora es más legible porque las responsabilidades están divididas en métodos más pequeños. Cada uno de esos métodos es fácil de entender y modificar por separado.
