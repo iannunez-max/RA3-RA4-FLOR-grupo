@@ -18,8 +18,8 @@ calcularTotal(): Calcula el total de la factura.
 
 mostrarFactura(): Muestra la factura final.
 
-Código más claro y comprensible: El código ahora es más legible porque las responsabilidades están divididas en métodos más pequeños. Cada uno de esos métodos es fácil de entender y modificar por separado.
+1. Código más claro y comprensible: El código ahora es más legible porque las responsabilidades están divididas en métodos más pequeños. Cada uno de esos métodos es fácil de entender y modificar por separado.
 
-Reusabilidad: Ahora, si en algún momento quieres usar el cálculo de impuestos en otra parte de tu código, puedes llamar solo a calcularImpuestos(), sin necesidad de duplicar código.
+2. Reusabilidad: Ahora, si en algún momento quieres usar el cálculo de impuestos en otra parte de tu código, puedes llamar solo a calcularImpuestos(), sin necesidad de duplicar código.
 
-Facilidad de prueba: Ahora es mucho más fácil probar cada parte del código por separado. Si necesitas probar el cálculo de impuestos, puedes hacerlo sin preocuparte de otros cálculos.
+3. Facilidad de prueba: Ahora es mucho más fácil probar cada parte del código por separado. Si necesitas probar el cálculo de impuestos, puedes hacerlo sin preocuparte de otros cálculos.
